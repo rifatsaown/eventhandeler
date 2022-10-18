@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import DataShow from '../DataShow/DataShow';
 
 const DataLoad = () => {
     const [data, setData] = useState([]);
@@ -9,7 +10,9 @@ const DataLoad = () => {
     },[]);
     return (
         <div>
-            
+            {
+                data.map(data => <DataShow {...data as object}></DataShow>)
+            }
         </div>
     );
 };
