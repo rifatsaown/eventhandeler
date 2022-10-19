@@ -8,9 +8,3 @@ const addToDb =(id:string)=>{
     localStorage.setItem('shoping-cart', JSON.stringify(shopingCart))
 }
 export {addToDb};
-
-/**
- * const x = '';
- * log(x);
- * x = 'Saown';
- */
