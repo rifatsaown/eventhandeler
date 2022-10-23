@@ -28,4 +28,11 @@ const deleteFromDb = (id:string)=>{
 const clearTheCart = ()=>{
     localStorage.removeItem('shoping-cart');
 }
-export {addToDb , deleteFromDb,clearTheCart};
+//reducer function
+const getTotalPrice = (product: []) =>{
+    const total = (previous:number,current:{price:number}) => previous + current.price; 
+    const totalPrice = product.reduce(total,0);
+    return totalPrice;
+}
+
+export {addToDb , deleteFromDb,clearTheCart, getTotalPrice as getTotal};
