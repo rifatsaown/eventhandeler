@@ -24,7 +24,7 @@ const deleteFromDb = (id:string)=>{
         localStorage.setItem('shoping-cart', JSON.stringify(shopingCart));
     }
 }
-// delete local storage
+// delete localstorage
 const clearTheCart = ()=>{
     localStorage.removeItem('shoping-cart');
 }
