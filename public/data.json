@@ -1,44 +1,44 @@
 [
-    {
-      "id": "634ec8bccc6f5334de734949",
-      "index": 0,
-      "name": "Petty Baird",
-      "email": "pettybaird@beadzza.com",
-      "price": 123
-    },
-    {
-      "id": "634ec8bc6e71bbfc9ea1d8ef",
-      "index": 1,
-      "name": "Terry Navarro",
-      "email": "terrynavarro@beadzza.com",
-      "price": 123
-    },
-    {
-      "id": "634ec8bc95212c9847742905",
-      "index": 2,
-      "name": "Key Shaffer",
-      "email": "keyshaffer@beadzza.com",
-      "price": 123
-    },
-    {
-      "id": "634ec8bcc4a0ad10095c63a9",
-      "index": 3,
-      "name": "Rodgers Carson",
-      "email": "rodgerscarson@beadzza.com",
-      "price": 123
-    },
-    {
-      "id": "634ec8bc17a3663a7043dd43",
-      "index": 4,
-      "name": "Stevens Klein",
-      "email": "stevensklein@beadzza.com",
-      "price": 123
-    },
-    {
-      "id": "634ec8bc0298f63566343f0d",
-      "index": 5,
-      "name": "Daniel Haynes",
-      "email": "danielhaynes@beadzza.com",
-      "price": 123
-    }
-  ]
+  {
+    "id": "634ec8bccc6f5334de734949",
+    "index": 0,
+    "name": "Petty Baird",
+    "email": "pettybaird@beadzza.com",
+    "price": 123
+  },
+  {
+    "id": "634ec8bc6e71bbfc9ea1d8ef",
+    "index": 1,
+    "name": "Terry Navarro",
+    "email": "terrynavarro@beadzza.com",
+    "price": 123
+  },
+  {
+    "id": "634ec8bc95212c9847742905",
+    "index": 2,
+    "name": "Key Shaffer",
+    "email": "keyshaffer@beadzza.com",
+    "price": 123
+  },
+  {
+    "id": "634ec8bcc4a0ad10095c63a9",
+    "index": 3,
+    "name": "Rodgers Carson",
+    "email": "rodgerscarson@beadzza.com",
+    "price": 123
+  },
+  {
+    "id": "634ec8bc17a3663a7043dd43",
+    "index": 4,
+    "name": "Stevens Klein",
+    "email": "stevensklein@beadzza.com",
+    "price": 123
+  },
+  {
+    "id": "634ec8bc0298f63566343f0d",
+    "index": 5,
+    "name": "Daniel Haynes",
+    "email": "danielhaynes@beadzza.com",
+    "price": 123
+  }
+]
